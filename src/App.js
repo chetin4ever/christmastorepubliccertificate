@@ -1,4 +1,3 @@
-import CertificateGenerator from "./CertificateGenerator"
 import ImageCertificate from "./ImageCertificate"
 
 function App() {
